@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="116" fill="#1b3a6b"/>
+  <!-- open book -->
+  <path d="M256 168 C212 140 152 134 96 146 L96 362 C152 350 212 354 256 382 Z" fill="#ffffff"/>
+  <path d="M256 168 C300 140 360 134 416 146 L416 362 C360 350 300 354 256 382 Z" fill="#eef2f8"/>
+  <path d="M256 168 L256 382" stroke="#1b3a6b" stroke-width="6"/>
+  <!-- text lines on left page -->
+  <g stroke="#9fb1cc" stroke-width="12" stroke-linecap="round">
+    <path d="M128 196 C160 190 196 192 226 204"/>
+    <path d="M128 236 C160 230 196 232 226 244"/>
+    <path d="M128 276 C160 270 196 272 226 284"/>
+    <path d="M128 316 C156 311 180 312 200 318"/>
+  </g>
+  <!-- magnifier -->
+  <line x1="372" y1="330" x2="428" y2="386" stroke="#c8891a" stroke-width="38" stroke-linecap="round"/>
+  <circle cx="320" cy="276" r="72" fill="#ffffff" stroke="#c8891a" stroke-width="24"/>
+  <!-- tick in lens -->
+  <path d="M286 278 L310 302 L356 252" fill="none" stroke="#1b3a6b" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
